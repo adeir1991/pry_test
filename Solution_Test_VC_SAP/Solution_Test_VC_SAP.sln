@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VC_SAP", "D:\VC_SAP\VC_SAP\VC_SAP\VC_SAP.csproj", "{D2CAFC8E-B0BF-4621-870E-D8337548C135}"
-EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApplication1", "WindowsApplication1\WindowsApplication1.vbproj", "{6326B23D-F0B2-4C05-AA95-34D1815BE679}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsCsharp", "WindowsFormsCsharp\WindowsFormsCsharp.csproj", "{145692DC-0E8B-4705-B17A-8DB39CDBADDB}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D2CAFC8E-B0BF-4621-870E-D8337548C135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D2CAFC8E-B0BF-4621-870E-D8337548C135}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D2CAFC8E-B0BF-4621-870E-D8337548C135}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D2CAFC8E-B0BF-4621-870E-D8337548C135}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6326B23D-F0B2-4C05-AA95-34D1815BE679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6326B23D-F0B2-4C05-AA95-34D1815BE679}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6326B23D-F0B2-4C05-AA95-34D1815BE679}.Release|Any CPU.ActiveCfg = Release|Any CPU
